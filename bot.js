@@ -19,4 +19,4 @@ client.on('message', message => {
 
 
   
-client.login('NTI0NTU3NDg2OTQyODQ2OTc3.DwjLDg.qqZU0F9RQ_tSo6VEjBjMtXjeBik)
+client.login('NTI0NTU3NDg2OTQyODQ2OTc3.DwjLDg.qqZU0F9RQ_tSo6VEjBjMtXjeBik')
